@@ -34,6 +34,6 @@ public class Question4 {
                 answer.add(i + 1);
             }
         }
-        return answer.stream().mapToInt(Integer::intValue).toArray();
+        return answer.stream().sorted().mapToInt(Integer::intValue).toArray();
     }
 }
