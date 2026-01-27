@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="feat(week1): Question4&#10;&#10;해설 확인">
-      <change afterPath="$PROJECT_DIR$/src/jihyeon/week1/Question5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="feat(week1): Question5&#10;&#10;해설 확인">
+      <change beforePath="$PROJECT_DIR$/src/jihyeon/week1/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jihyeon/week1/Question5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769506527029</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat(week1): Question5&#10;&#10;해설 확인">
+      <option name="closed" value="true" />
+      <created>1769515467409</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769515467409</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +201,8 @@
     <MESSAGE value="workspace changes" />
     <MESSAGE value="feat(week1): Question3" />
     <MESSAGE value="feat(week1): Question4&#10;&#10;해설 확인" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(week1): Question4&#10;&#10;해설 확인" />
+    <MESSAGE value="feat(week1): Question4&#10;&#10;sorted 추가" />
+    <MESSAGE value="feat(week1): Question5&#10;&#10;해설 확인" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(week1): Question5&#10;&#10;해설 확인" />
   </component>
 </project>

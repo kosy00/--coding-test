@@ -4,7 +4,7 @@ public class Question5 {
 
     public int[][] solution(int[][] arr1, int[][] arr2) {
         // (M*K), (K*N) 처럼 열과 행이 같은 크기인 행렬만 서로 곱할 수 있다.
-        // 행렬의 곱의 결과 크기는 M*N이고, 곱셈은 K를 기준으로 계산된다. (예시: arr1의 1열 * arr2의 1행)
+        // 행렬의 곱의 결과 크기는 M*N이고, 곱셈은 K를 기준으로 계산된다. (예시: arr1의 1행 K열 * arr2의 1열 K행)
 
         int r1 = arr1.length;
         int c2 = arr2[0].length;
