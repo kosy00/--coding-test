@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="workspace changes">
-      <change afterPath="$PROJECT_DIR$/src/jihyeon/week1/Question3.java" afterDir="false" />
+    <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="feat(week1): Question3">
+      <change afterPath="$PROJECT_DIR$/src/jihyeon/week1/Question4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jihyeon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jihyeon/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/jihyeon/util/Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jihyeon/util/Generator.java" afterDir="false" />
@@ -37,6 +37,9 @@
     &quot;accountId&quot;: &quot;bfbc3f83-818b-424a-8c8a-87b7269da632&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -166,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769503751799</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat(week1): Question3">
+      <option name="closed" value="true" />
+      <created>1769504859293</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769504859293</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +186,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes" />
     <MESSAGE value="workspace changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace changes" />
+    <MESSAGE value="feat(week1): Question3" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(week1): Question3" />
   </component>
 </project>

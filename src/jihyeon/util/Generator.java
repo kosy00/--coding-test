@@ -5,7 +5,7 @@ import java.util.Random;
 public class Generator {
 
     // 2 ~ 100000
-    public static int[] generateRandomBigArray() {
+    public static int[] generateRandom100000Array() {
         Random random = new Random();
 
         // 배열 크기: 2 ~ 100000
@@ -21,7 +21,7 @@ public class Generator {
     }
 
     // 2 ~ 100
-    public static int[] generateRandomSmallArray() {
+    public static int[] generateRandom100Array() {
         Random random = new Random();
 
         // 배열 크기: 2 ~ 100
@@ -35,4 +35,21 @@ public class Generator {
         }
         return arr;
     }
+
+    // 1 ~ 10000
+    public static int[] generateRandom10000Array() {
+        Random random = new Random();
+
+        // 배열 크기: 1 ~ 10000
+        int size = random.nextInt(10000 - 1 + 1) + 1;
+
+        int[] arr = new int[size];
+
+        // 값 범위: 1 ~ 5
+        for (int i = 0; i < size; i++) {
+            arr[i] = random.nextInt(1, 6); // 1 ~ 5
+        }
+        return arr;
+    }
+
 }
