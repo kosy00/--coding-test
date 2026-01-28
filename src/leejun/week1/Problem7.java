@@ -9,15 +9,16 @@ public class Problem7 {
         System.out.println(solution("UD"));
     }
 
-    private static Map<Character, int[]> location = new HashMap<>();
-    private static HashSet<String> set = new HashSet<>();
+    private static final Map<Character, int[]> location = new HashMap<>();
+    private static final HashSet<String> set = new HashSet<>();
 
     public static int solution(String dirs) {
         initMap();
         int x = 5, y = 5;
         for (int i = 0; i < dirs.length(); i++) {
             int[] xy = location.get(dirs.charAt(i));
-            int nx = xy[0] + x; //위치 5,5에서 시작
+            //위치 5,5에서 시작
+            int nx = xy[0] + x;
             int ny = xy[1] + y;
             if (!validateDirs(nx, ny)) {
                 continue;
