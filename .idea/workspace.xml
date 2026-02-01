@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="feat(week1): Question7&#10;&#10;해설 확인" />
+    <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="feat(week1): Question7&#10;&#10;해설 확인">
+      <change afterPath="$PROJECT_DIR$/src/coco/array/P02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coco/array/P03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coco/stack/P08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coco/배열/P01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coco/array/P01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coco/배열/P02.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +69,7 @@
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/koko/Desktop/coding study",
+    "last_opened_file_path": "/Users/koko/Documents/dev/coding study",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -156,7 +163,8 @@
       <workItem from="1769526556562" duration="4634000" />
       <workItem from="1769588663129" duration="5489000" />
       <workItem from="1769654187558" duration="3177000" />
-      <workItem from="1769767866144" duration="23000" />
+      <workItem from="1769767866144" duration="2570000" />
+      <workItem from="1769792308068" duration="5583000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />

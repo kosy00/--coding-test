@@ -1,4 +1,4 @@
-package coco.배열;
+package coco.array;
 
 import java.util.Arrays;
 
