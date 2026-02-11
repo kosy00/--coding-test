@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="feat(week1): Question7&#10;&#10;해설 확인">
-      <change afterPath="$PROJECT_DIR$/src/jihyeon/week2/Question10.java" afterDir="false" />
+    <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="feat(week2): Question10&#10;&#10;해설 확인">
+      <change afterPath="$PROJECT_DIR$/src/jihyeon/week2/Question12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "jihyeon",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Study/coding-test-study",
@@ -156,7 +156,7 @@
       <workItem from="1769654187558" duration="3177000" />
       <workItem from="1769767866144" duration="2570000" />
       <workItem from="1769792308068" duration="18530000" />
-      <workItem from="1770799141766" duration="1939000" />
+      <workItem from="1770799141766" duration="4292000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
@@ -222,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769594507616</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="feat(week2): Question10&#10;&#10;해설 확인">
+      <option name="closed" value="true" />
+      <created>1770801301778</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770801301778</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +246,7 @@
     <MESSAGE value="feat(week1): Question5&#10;&#10;주석 수정" />
     <MESSAGE value="feat(week1): Question6&#10;&#10;해설 확인" />
     <MESSAGE value="feat(week1): Question7&#10;&#10;해설 확인" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(week1): Question7&#10;&#10;해설 확인" />
+    <MESSAGE value="feat(week2): Question10&#10;&#10;해설 확인" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(week2): Question10&#10;&#10;해설 확인" />
   </component>
 </project>
