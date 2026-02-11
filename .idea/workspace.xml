@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59fe7071-977b-4f86-9682-59ce1309c66c" name="Changes" comment="feat(week1): Question7&#10;&#10;해설 확인">
-      <change afterPath="$PROJECT_DIR$/src/coco/stack/P08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/coco/stack/P10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jihyeon/week2/Question10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,8 +64,9 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/Users/koko/Documents/dev/coding study",
+    "last_opened_file_path": "C:/Study/coding-test-study",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,7 +80,7 @@
     "애플리케이션.Main.executor": "Run"
   }
 }]]></component>
-  <component name="RunManager" selected="애플리케이션.Main">
+  <component name="RunManager" selected="Application.LeejunMain">
     <configuration name="LeejunMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leejun.week1.LeejunMain" />
       <module name="coding-test" />
@@ -133,12 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="애플리케이션.Main" />
-        <item itemvalue="애플리케이션.LeejunMain" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -162,6 +156,7 @@
       <workItem from="1769654187558" duration="3177000" />
       <workItem from="1769767866144" duration="2570000" />
       <workItem from="1769792308068" duration="18530000" />
+      <workItem from="1770799141766" duration="1939000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <option name="closed" value="true" />
