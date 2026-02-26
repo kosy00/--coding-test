@@ -1,4 +1,4 @@
-package coco.Queue;
+package coco.queue;
 
 import java.util.ArrayDeque;
 import java.util.Queue;
